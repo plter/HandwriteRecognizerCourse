@@ -6,7 +6,6 @@
     let train_data_out = document.querySelector("#train_data_out");
     let targetDataOut = document.querySelector("#target_data_out");
 
-
     function initProperties() {
         canvas.width = 20;
         canvas.height = 20;
