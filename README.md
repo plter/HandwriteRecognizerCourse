@@ -5,7 +5,7 @@
 
 * 国际镜像 [https://github.com/plter/HandwriteRecognizerCourse](https://github.com/plter/HandwriteRecognizerCourse) 
 * 国内镜像 [https://gitee.com/topyunp/HandwriteRecognizerCourse](https://gitee.com/topyunp/HandwriteRecognizerCourse)
-* 视频教程：[https://yunp.top/init/course/v/8](https://yunp.top/init/course/v/8)  
+* 视频教程：[https://yunp.top/p/v/8](https://yunp.top/init/course/v/8)  
 
 # 课程目录 
 
